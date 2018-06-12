@@ -1,4 +1,4 @@
-# Word count script
+# Word count scripts
 
 The word count script is derived from
 work by [Software Carpentry](http://software-carpentry.org) licensed under the
